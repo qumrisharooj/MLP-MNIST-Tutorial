@@ -31,11 +31,12 @@ This project demonstrates the implementation of a Multilayer Perceptron (MLP) fo
 
 ```bash
 pip install tensorflow matplotlib numpy pandas scikit-learn
+```
 
-Run Project
+## Run Project
 jupyter notebook
 
-Project structure
+## Project structure
 ├── main.ipynb
 ├── Assignment_01_Report.pdf
 ├── README.md
