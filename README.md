@@ -38,6 +38,9 @@ jupyter notebook
 
 ## Project structure
 ├── main.ipynb
+
 ├── Assignment_01_Report.pdf
+
 ├── README.md
+
 ├── requirements.txt
